@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "75031024289",
+    "project_id": "tripperpedia",
+    "storage_bucket": "tripperpedia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75031024289:android:c3c86e298d526b937bd6e0",
+        "android_client_info": {
+          "package_name": "com.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75031024289-dggh4fpjvgjckrrfhe69v4t8dq4cckkk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6McQVBkzJmT-XdL3fAHin1P8zul1pf7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75031024289-dggh4fpjvgjckrrfhe69v4t8dq4cckkk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75031024289:android:2f0e4328aee171657bd6e0",
+        "android_client_info": {
+          "package_name": "com.example.rab_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75031024289-n4g639t07cpqt8tf2hdlcubo9uu3jdl1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rab_user",
+            "certificate_hash": "c6de1d88b45a9a46b86c604712f07b86220776aa"
+          }
+        },
+        {
+          "client_id": "75031024289-dggh4fpjvgjckrrfhe69v4t8dq4cckkk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6McQVBkzJmT-XdL3fAHin1P8zul1pf7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75031024289-dggh4fpjvgjckrrfhe69v4t8dq4cckkk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75031024289:android:8a19a4acd60940cb7bd6e0",
+        "android_client_info": {
+          "package_name": "com.rabvendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75031024289-dggh4fpjvgjckrrfhe69v4t8dq4cckkk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6McQVBkzJmT-XdL3fAHin1P8zul1pf7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75031024289-dggh4fpjvgjckrrfhe69v4t8dq4cckkk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
